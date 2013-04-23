@@ -1,17 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  handle: MyString
-  bio: MyText
-  location: MyString
-  email: MyString
+  username: MyString
   password_hash: MyString
-  referrer_id: 1
 
 two:
-  handle: MyString
-  bio: MyText
-  location: MyString
-  email: MyString
+  username: MyString
   password_hash: MyString
-  referrer_id: 1
